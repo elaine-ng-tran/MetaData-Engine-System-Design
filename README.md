@@ -1,4 +1,4 @@
-# 🏎 metaData-filtering-engine
+# Goal of Meta-Data Driven Filtering Engine 
 The goal of this project is to create an engine that efficiently navigates accurate data through complex distributed systems and bloom filters, ultimately improving hard-ware partitioning within databricks. Solving a small file problem and data skew, impact of performance and budget in big data environments. 
 
 # Storage Layer Optimization (Foundation)
